@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isSomma", "isSomma\isSomma.csproj", "{00C38176-0042-4FC3-AF3A-6F50A3DDC1BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isSommaTest", "XUnitTestProject1\isSommaTest.csproj", "{43903405-F391-46DA-B74C-80444048E526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{00C38176-0042-4FC3-AF3A-6F50A3DDC1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00C38176-0042-4FC3-AF3A-6F50A3DDC1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00C38176-0042-4FC3-AF3A-6F50A3DDC1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43903405-F391-46DA-B74C-80444048E526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43903405-F391-46DA-B74C-80444048E526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43903405-F391-46DA-B74C-80444048E526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43903405-F391-46DA-B74C-80444048E526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
